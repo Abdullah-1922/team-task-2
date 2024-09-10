@@ -1,6 +1,6 @@
 const JoinOurMailingList = () => {
   return (
-    <div className="bg-[#F2F5FF]  py-10">
+    <div className="bg-[#F2F5FF]  py-14">
       <div className="text-center space-y-3">
         <p className="text-[32px] font-[700]">Join Our Mailing List</p>
         <p className="text-[20px] leading-[39px] text-[#666]">

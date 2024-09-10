@@ -6,7 +6,7 @@ const BrowseTheRange = () => {
   return (
     <div className="py-20">
       <div className="text-center pb-10">
-        <p className="font-[700] text-[32px]">Browse The Range</p>
+        <p className="font-[700] mb-2 text-[32px]">Browse The Range</p>
         <p className="text-[#666] text-[20px] ">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>

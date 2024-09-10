@@ -5,9 +5,10 @@ import img3 from "@/app/assets/HIW3.jpeg";
 
 const HowItWorks = () => {
   return (
-    <div className="py-20">
+    <div className="py-20 border-t-2">
+
       <div className="text-center pb-10">
-        <p className="font-[700] text-[32px]">How It Works</p>
+        <p className="font-[700] mb-2 text-[32px]">How It Works</p>
         <p className="text-[#666] text-[20px]">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>
